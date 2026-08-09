@@ -1,0 +1,10 @@
+{
+    "name": "my-project",
+    "version": "1.0.0",
+    "description": "Controle para Biblioteca em JS",
+    "main": "index.js",
+    "type": "module",
+    "dependencies": {
+        "prompt-sync": "^4.2.0"
+    }
+}
